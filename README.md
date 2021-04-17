@@ -3,6 +3,8 @@ Onaylı bir Discord bot geliştiricisiyim. Merakım sayesinde buralara kadar gel
 <br>
 Discord.js ile bot kodluyorum. Javascript, html, css biliyorum.
 <br>
+Github'da çok repom yok ama aktif olarak Github kullanıyorum.
+<br>
 Onaylı botum: [Fire](https://top.gg/bot/732144670150361190)
 
 ## İşe yarar bağlantılar:
