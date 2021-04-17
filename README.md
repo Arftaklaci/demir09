@@ -1,5 +1,6 @@
 ## Ben kimim?
 Onaylı bir Discord bot geliştiricisiyim. Merakım sayesinde buralara kadar geldim :)
+<br>
 Onaylı botum: [Fire](https://top.gg/bot/732144670150361190)
 
 ## İşe yarar bağlantılar:
