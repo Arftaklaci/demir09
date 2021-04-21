@@ -1,7 +1,7 @@
 ## Ben kimim?
 Onaylı bir Discord bot geliştiricisiyim. Merakım sayesinde buralara kadar geldim.
 <br>
-Discord.js ile bot kodluyorum. [![javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)](#), [![html](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)](#), [![css](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)](#) biliyorum.
+Discord.js ile bot kodluyorum.
 <br>
 Github'da çok repom yok ama aktif olarak Github kullanıyorum.
 <br>
@@ -9,9 +9,9 @@ Onaylı botum: [Fire](https://top.gg/bot/732144670150361190)
 <br>
 
 ## Bildiğim diller:
-[![javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)](#)
-[![html](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)](#)
-[![css](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)](#)
+[![javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png =25x25)](#)
+[![html](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png =25x25)](#)
+[![css](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png =25x25)](#)
 
 [![Discord](https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/687003011934846979)
 [![Spotify](https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tsv62vbya6ncgkd36aqr9ckbg)
