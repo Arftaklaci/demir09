@@ -6,6 +6,13 @@ Discord.js ile bot kodluyorum. Javascript, html, css biliyorum.
 Github'da çok repom yok ama aktif olarak Github kullanıyorum.
 <br>
 Onaylı botum: [Fire](https://top.gg/bot/732144670150361190)
+<br>
+
+[![Discord](https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](sociallink)
+[![Spotify](https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](sociallink)
+[![YouTube](https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](sociallink)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](sociallink)
+[![Github](https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white)](sociallink)
 
 ## İşe yarar bağlantılar:
 [Discord hesabım](https://discord.com/users/687003011934846979)
