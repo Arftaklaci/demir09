@@ -19,7 +19,7 @@ Onaylı botum: [Fire](https://top.gg/bot/732144670150361190)
 [![YouTube](https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/webmaster9)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/galaxydev1234)
 [![Github](https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/demir09)
-Discord sunucumuz: [![Discord sunucumuz](https://img.shields.io/discord/805844177605623869?color=7289da&logo=discord&logoColor=white)](https://galaxydev.tk/saturn)
+[![Discord sunucumuz](https://img.shields.io/discord/805844177605623869?color=7289da&logo=discord&logoColor=white)](https://galaxydev.tk/saturn)
 
 [![demir09's Github stats](https://github-readme-stats.vercel.app/api?username=demir09&count_private=true&show_icons=true&theme=dark&hide_border=true)](#i̇şe-yarar-bağlantılar)
 [![demir09's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=demir09&theme=dark&count_private=true&show_icons=true&hide_border=true)](#i̇şe-yarar-bağlantılar)
