@@ -3,8 +3,6 @@ Onaylı bir Discord bot geliştiricisiyim. Merakım sayesinde buralara kadar gel
 <br>
 Discord.js ile bot kodluyorum.
 <br>
-Github'da çok repom yok ama aktif olarak Github kullanıyorum.
-<br>
 [![Discord botum](https://img.shields.io/badge/discord%20botum:-ffffff.svg?&style=for-the-badge&logoColor=white)](#ben-kimim)[![fire](https://img.shields.io/badge/%F0%9F%94%A5%20fire%20-FF2300.svg?&style=for-the-badge&logoColor=white)](https://top.gg/bot/732144670150361190)
 <br>
 
