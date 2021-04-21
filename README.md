@@ -5,7 +5,7 @@ Discord.js ile bot kodluyorum.
 <br>
 Github'da çok repom yok ama aktif olarak Github kullanıyorum.
 <br>
-Onaylı botum:<br>[![fire](https://img.shields.io/badge/%F0%9F%94%A5%20fire%20-FF2300.svg?&style=for-the-badge&logoColor=white)](https://top.gg/bot/732144670150361190)
+[![onaylı botum](https://img.shields.io/badge/discord%20botum:-ffffff.svg?&style=for-the-badge&logoColor=white)](#ben-kimim?)<br>[![fire](https://img.shields.io/badge/%F0%9F%94%A5%20fire%20-FF2300.svg?&style=for-the-badge&logoColor=white)](https://top.gg/bot/732144670150361190)
 <br>
 
 ## Bildiğim diller:
