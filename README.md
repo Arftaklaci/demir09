@@ -3,7 +3,9 @@ Onaylı bir Discord bot geliştiricisiyim. Merakım sayesinde buralara kadar gel
 <br>
 Discord.js ile bot kodluyorum.
 <br>
-[![Discord botum](https://img.shields.io/badge/discord%20botum:-ffffff.svg?&style=for-the-badge&logoColor=white)](#ben-kimim)[![fire](https://img.shields.io/badge/%F0%9F%94%A5%20fire%20-FF2300.svg?&style=for-the-badge&logoColor=white)](https://top.gg/bot/732144670150361190)
+[![Discord botum](https://img.shields.io/badge/ana%20botum:-ffffff.svg?&style=for-the-badge&logoColor=white)](#ben-kimim)[![fire](https://img.shields.io/badge/%F0%9F%94%A5%20fire%20-FF2300.svg?&style=for-the-badge&logoColor=white)](https://top.gg/bot/732144670150361190)
+<br>
+[![Discord botum](https://img.shields.io/badge/çekiliş%20botum:-ffffff.svg?&style=for-the-badge&logoColor=white)](#ben-kimim)[![cekilisbot](https://img.shields.io/badge/%F0%9F%8E%89%20cekilisbot%20-7289da.svg?&style=for-the-badge&logoColor=white)](https://cekilisbot.cf)
 <br>
 
 ## Bildiğim diller:
